@@ -13,7 +13,7 @@ body {
 
 div {
   height: auto;
-  font-size: 2vw;
+  font-size: calc(2vh + 1vw);
 }
 
 a {
